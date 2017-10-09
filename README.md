@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSan-Francisco-Open-Data-Legislation.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSan-Francisco-Open-Data-Legislation?ref=badge_shield)
+
 San Francisco Open Data Legislation
 ===================================
 2013 proposed revision to Chapter 22D of the San Francisco Administrative Code - San Francisco's Open Data Ordinance. 
@@ -63,3 +65,7 @@ To get in contact with the host to start a discussion about your suggestions: pl
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSan-Francisco-Open-Data-Legislation.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSan-Francisco-Open-Data-Legislation?ref=badge_large)
